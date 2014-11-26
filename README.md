@@ -1,4 +1,4 @@
 gobligo
 =======
 
-A lightweight PHP based MVC framework. It has model.
+A lightweight PHP based MVC framework. It has model, view.
